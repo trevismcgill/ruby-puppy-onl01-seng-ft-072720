@@ -6,6 +6,7 @@ attr_accessor :name
 def initialize(name)
   #binding.pry
 @name = name
+@@all.push(self)
 end
 
 def self.all
