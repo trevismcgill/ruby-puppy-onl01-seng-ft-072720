@@ -4,6 +4,7 @@ attr_accessor :name
 @@all = []
 
 def initialize(arg)
+  binding.pry
 @arg = arg
 end
 
@@ -20,5 +21,7 @@ end
 def self.print_all
 
 end
+
+def 
 
 end
