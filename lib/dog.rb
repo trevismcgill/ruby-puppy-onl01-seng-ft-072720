@@ -8,7 +8,7 @@ def initialize(arg)
 end
 
 def self.all
-@@all.push
+@@all.push(self)
 end
 
 def self.clear_all
