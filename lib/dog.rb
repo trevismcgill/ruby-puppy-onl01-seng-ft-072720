@@ -19,7 +19,7 @@ def self.clear_all
 end
 
 def self.print_all
- puts self.@name
+ puts self
 end
 
 end
