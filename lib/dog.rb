@@ -10,7 +10,7 @@ end
 
 def self.all
 @@all.push(@name)
-#binding.pry
+binding.pry
 @@all
 end
 
