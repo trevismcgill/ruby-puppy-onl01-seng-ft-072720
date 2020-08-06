@@ -10,9 +10,7 @@ def initialize(name)
 end
 
 def self.all
-@@all.push
-#binding.pry
-@@all
+
 end
 
 def self.clear_all
