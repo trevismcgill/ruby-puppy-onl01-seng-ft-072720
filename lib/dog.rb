@@ -3,9 +3,9 @@ class Dog
 attr_accessor :name
 @@all = []
 
-def initialize(arg)
+def initialize(name)
   binding.pry
-@arg = arg
+@name = name
 end
 
 def self.all
