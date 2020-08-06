@@ -4,7 +4,7 @@ attr_accessor :name
 @@all = []
 
 def initialize(name)
-  binding.pry
+  #binding.pry
 @name = name
 end
 
