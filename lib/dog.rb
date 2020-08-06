@@ -9,6 +9,7 @@ end
 
 def self.all
 @@all.push(self)
+@@all
 end
 
 def self.clear_all
