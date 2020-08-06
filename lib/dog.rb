@@ -20,6 +20,7 @@ end
 
 def self.print_all
  puts @name
+ binding.pry
 end
 
 
