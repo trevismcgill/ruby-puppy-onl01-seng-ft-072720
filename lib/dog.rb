@@ -9,7 +9,7 @@ def initialize(name)
 end
 
 def self.all
-@@all.push()@name)
+@@all.push(@name)
 #binding.pry
 @@all
 end
