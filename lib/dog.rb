@@ -7,4 +7,16 @@ def initialize(arg)
 
 end
 
+def self.all
+
+end
+
+def self.clear_all
+
+end
+
+def self.print_all
+
+end
+
 end
