@@ -9,8 +9,8 @@ def initialize(name)
 end
 
 def self.all
-@@all.push(@name)
-binding.pry
+@@all.push
+#binding.pry
 @@all
 end
 
