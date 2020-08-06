@@ -19,8 +19,7 @@ def self.clear_all
 end
 
 def self.print_all
- puts @name
- binding.pry
+ puts
 end
 
 
