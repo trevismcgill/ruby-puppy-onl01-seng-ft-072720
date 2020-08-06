@@ -20,7 +20,6 @@ end
 
 def self.print_all
  puts @name
- end
 end
 
 
