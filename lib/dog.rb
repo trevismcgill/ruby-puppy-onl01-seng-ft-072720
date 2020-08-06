@@ -3,8 +3,8 @@ class Dog
 
   @@all = []
 
-  def initializes
+def initializes
 
-  end
+end
 
 end
