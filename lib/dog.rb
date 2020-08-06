@@ -7,7 +7,7 @@ def initialize(name)
   #binding.pry
 @name = name
 @@all.push(self)
-binding.pry
+# binding.pry
 end
 
 def self.all
