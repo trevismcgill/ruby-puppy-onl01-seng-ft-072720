@@ -22,6 +22,6 @@ def self.print_all
 
 end
 
-def 
+def
 
 end
