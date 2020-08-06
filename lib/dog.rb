@@ -3,4 +3,8 @@ class Dog
 
   @@all = []
 
+  def initializes
+
+  end
+
 end
