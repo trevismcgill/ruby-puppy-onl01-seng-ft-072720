@@ -4,12 +4,12 @@ attr_accessor :name
 @@all = []
 
 def initialize(arg)
-
+@arg = arg
 end
 
 def self.all
 @@all.push(self)
-binding.pry
+#binding.pry
 @@all
 end
 
