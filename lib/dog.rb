@@ -1,4 +1,4 @@
-# Add your code here
+require "pry"
 class Dog
 
 @@all = []
@@ -9,6 +9,7 @@ end
 
 def self.all
 @@all.push(self)
+binding.pry
 @@all
 end
 
